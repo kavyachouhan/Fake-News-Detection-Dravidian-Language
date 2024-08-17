@@ -33,10 +33,10 @@ The dataset consisted of news articles in Malayalam labeled as either "False", "
 
 1. **Data Preprocessing:**
    - Text cleaning and normalization.
-   - Tokenization and vectorization using TF-IDF.
+   - Tokenization and vectorization using TF-IDF and Bag of Words.
 
 2. **Model Development:**
-   - Experimented with various machine learning algorithms including Logistic Regression, SVM, and Random Forest.
+   - Experimented with various machine learning algorithms including Logistic Regression, XGboost, and Random Forest.
    - Addressed class imbalance using techniques like oversampling, undersampling, and class weights.
 
 3. **Evaluation:**
