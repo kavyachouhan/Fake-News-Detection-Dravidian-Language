@@ -53,7 +53,7 @@ The dataset consisted of news articles in Malayalam labeled as either "False", "
 
 - **Programming Languages:** Python
 - **Libraries:** Scikit-learn, Pandas, NumPy
-- **Tools:** Google Collab
+- **Tools:** Jupyter Notebook
 
 ## Challenges Faced
 
