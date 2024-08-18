@@ -63,5 +63,5 @@ The dataset consisted of news articles in Malayalam labeled as either "False", "
 ## Contributors
 
 - [Kavya Chouhan](https://github.com/kavyachouhan)
+- [Sharvil More](https://github.com/Sharvil445)
 - Yashvi Jain
-- [Sharvil More](https://github.com/team-member2)
